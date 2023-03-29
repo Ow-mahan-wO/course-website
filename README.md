@@ -8,6 +8,6 @@ Languages ​​used in this project:
 
 -css
 
--bootstrap(css framework)
+-bootstrap (css framework)
 
 project link github page: 
