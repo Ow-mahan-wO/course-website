@@ -1,5 +1,6 @@
 .card{
     border: 1px solid #d1d1d1;
+
 }
 .badge{
     width: 2rem;
@@ -10,8 +11,7 @@
     height: 13rem;
 }
 .card:hover{
-    position: relative;
-    bottom: 20px;
+    transition: 200ms ease-in;  
     background-color: black;
     color: white;
     cursor: pointer;
@@ -40,5 +40,25 @@
     height: 4rem;
     background-color: rgb(232, 222, 20);
     border-radius: 0.5rem;
+}
+.search:hover{
+    transition: 200ms;
+    background-color: white;
+    color: black;
+}
+.btn:hover{
+    transition: 200ms;
+    background-color: white;
+    color: black;
+}
+.btn{
+    background-color: rgb(232, 222, 20);
+}
+.nav-link:hover{
+    transition: 200ms;
+    color: black;
+}
+.nav-link{
+    color: rgb(120, 120, 120);
 }
 
