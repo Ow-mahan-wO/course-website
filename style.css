@@ -57,6 +57,7 @@
 .nav-link:hover{
     transition: 200ms;
     color: black;
+    font-weight: bold;
 }
 .nav-link{
     color: rgb(120, 120, 120);
