@@ -1,0 +1,44 @@
+.card{
+    border: 1px solid #d1d1d1;
+}
+.badge{
+    width: 2rem;
+    height: 2rem;
+    left: 98%;
+}
+.card-img-top{
+    height: 13rem;
+}
+.card:hover{
+    position: relative;
+    bottom: 20px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+.title-container {
+    padding: 10%;
+    background-image: url(img/baner.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.title{
+    margin-bottom: 5rem;
+}
+.input{
+    outline: none;
+    margin-bottom: 10rem;
+    height: 3.5rem;
+    width: 50%;
+    border-radius: 2rem;
+    text-indent: 22px;
+    border: none;
+}
+.search{
+    width: 10rem;
+    border: none;
+    height: 4rem;
+    background-color: rgb(232, 222, 20);
+    border-radius: 0.5rem;
+}
+
